@@ -8,4 +8,4 @@ Warning:
 	Use serial to output the data(bound = 115200)
 	exti_line pin is PA0
 	LED is PA1
-	Project is in the use file.
+	The Keil project is in the USER file.
